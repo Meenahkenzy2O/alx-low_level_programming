@@ -1,0 +1,1 @@
+Pointers na ue nate
