@@ -1,0 +1,9 @@
+#include "main.h"
+#include <unistd.h>
+
+/**
+ * _strchr - locate the character in the string
+ * @s: string
+ * @c: character
+ * Return: location of the found character or NULL
+ */ 
